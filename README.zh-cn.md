@@ -143,7 +143,7 @@ public class ConfigController : ControllerBase
 
 1. 服务注册
 
-在 `Program.cs` 中配置
+在 `Startup.cs` 中配置
 
 ```cs
 public class Startup
